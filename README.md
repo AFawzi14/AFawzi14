@@ -29,7 +29,7 @@ I aim to continuously expand my knowledge and skills in IT and cybersecurity, th
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
-### Endpoint
+### Cloud
 </div>
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     
