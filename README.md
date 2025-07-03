@@ -13,7 +13,7 @@ I aim to continuously expand my knowledge and skills in IT and cybersecurity, th
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Lab - Windows 19 Server          | <a href="https://github.com/AFawzi14/Active-Directory-Home-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
